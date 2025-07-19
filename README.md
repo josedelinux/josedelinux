@@ -18,14 +18,16 @@ I have experience working in both private companies and as a freelancer.
 
 I've spent most of my time as a developer working with:
 
-- <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-Django [parler / tenants] -- Flask -- Celery -- Unittests -- Typing-grey" alt="Django (parler, tenants), Flask, Celery, Unittests, Typing">
-- <img src="https://img.shields.io/badge/JavaScript-white?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js, Mongoose">
+- <img src="https://img.shields.io/badge/Python-green?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-Django [parler / tenants] -- Flask -- Celery -- Unittests -- Typing-grey" alt="Django (parler, tenants), Flask, Celery, Unittests, Typing">
+- <img src="https://img.shields.io/badge/JavaScript-green?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js, Mongoose">
+- <img src="https://img.shields.io/badge/Golang-green?labelColor=black" alt="Golang"> <img src="https://img.shields.io/badge/-Gin -- Echo -- Gorm -- Goose-grey" alt="Gin, Echo, gorm, Goose">
+
 
 I also have experience with:
 
-- <img src="https://img.shields.io/badge/Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Tailwind CSS -- Lighthouse -- SPA development-grey" alt="Tailwind CSS, Lighthouse, SPA development">
-- <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
-- <img src="https://img.shields.io/badge/Persistence-white?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
+- <img src="https://img.shields.io/badge/Frontend-green?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-React -- Vue -- Tailwind CSS -- Flutter -grey" alt="React, Vue, Tailwind CSS, Flutter">
+- <img src="https://img.shields.io/badge/Infrastructure-green?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
+- <img src="https://img.shields.io/badge/Persistence-green?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
 
 <h3>MY FRIEND</h3>
 has a message for you...
