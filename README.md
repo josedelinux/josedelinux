@@ -21,7 +21,9 @@ I've spent most of my time as a developer working with:
 - <img src="https://img.shields.io/badge/Python-green?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-Django -- Flask -- PyQt -- Unittests -- Typing-grey" alt="Django, Flask, PyQt, Unittests, Typing">
 - <img src="https://img.shields.io/badge/JavaScript-green?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js, Mongoose">
 - <img src="https://img.shields.io/badge/Golang-green?labelColor=black" alt="Golang"> <img src="https://img.shields.io/badge/-Gin -- Echo -- Gorm -- Goose-grey" alt="Gin, Echo, gorm, Goose">
-src="https://img.shields.io/badge/C-green?labelColor=black" alt="C"> <img src="https://img.shields.io/badge/-POSIX C system programming -- libuv -- microcontroller[stm32, Arduino, esp32] -grey" alt="Posix c, libuv, mcu">
+- <img
+src="https://img.shields.io/badge/C-green?labelColor=black" alt="C"> <img
+src="https://img.shields.io/badge/-POSIX C system programming -- libuv -- microcontroller[stm32, Arduino, esp32] -grey" alt="Posix c, libuv, mcu">
 
 
 I also have experience with:
