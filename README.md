@@ -32,6 +32,13 @@ I also have experience with:
 - <img src="https://img.shields.io/badge/Infrastructure-green?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
 - <img src="https://img.shields.io/badge/Persistence-green?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
 
+<h3>☕ Support My Work</h3>
+
+If you appreciate my projects, consider fueling my development journey:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Donate-☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee)](https://josedelinux.github.io/donate-josedelinux/)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-❤️_GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/josedelinux)
+
 <h3>MY FRIEND</h3>
 has a message for you...
 
