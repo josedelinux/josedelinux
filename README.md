@@ -10,8 +10,6 @@ I'm a fullstack developer with experience building web platforms and application
 Additionally, I have hands-on experience working with microcontrollers including Arduino, ESP32, and STM32 for hardware prototyping and IoT projects.\
 I prioritize accessibility, performance, and writing secure, maintainable, and robust code. I also enjoy helping others and collaborating whenever possible. I love open source because contributing, supporting, and giving back to the community not only benefits others but also helps me.
 
-
-
 <h3>EXPERIENCE</h3>
 
 I have experience working in both private companies and as a freelancer.
@@ -24,7 +22,6 @@ I've spent most of my time as a developer working with:
 - <img
 src="https://img.shields.io/badge/C-green?labelColor=black" alt="C"> <img
 src="https://img.shields.io/badge/-POSIX C -- libuv -- mcu[stm32, Arduino, esp32] -grey" alt="Posix c, libuv, mcu">
-
 
 I also have experience with:
 
