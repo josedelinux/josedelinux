@@ -17,7 +17,7 @@ I have experience working in both private companies and as a freelancer.
 I've spent most of my time as a developer working with:
 
 - <img src="https://img.shields.io/badge/Python-green?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-Django -- Flask -- PyQt -- Unittests -- Typing-grey" alt="Django, Flask, PyQt, Unittests, Typing">
-- <img src="https://img.shields.io/badge/JavaScript-green?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js, Mongoose">
+- <img src="https://img.shields.io/badge/JavaScript-green?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Express -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js, Mongoose">
 - <img src="https://img.shields.io/badge/Frontend-green?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Typescript -- React -- Vue -- Tailwind CSS -- Vite -- Webpack -grey" alt="React, Vue, Tailwind CSS, Flutter">
 - <img src="https://img.shields.io/badge/Golang-green?labelColor=black" alt="Golang"> <img src="https://img.shields.io/badge/-Gin -- Echo -- Gorm -- Goose -- Fyne -grey" alt="Gin, Echo, gorm, Goose">
 - <img src="https://img.shields.io/badge/C-green?labelColor=black" alt="C"> <img src="https://img.shields.io/badge/-POSIX C -- libuv -- MCU[STM32, Arduino, ESP32] -grey" alt="Posix c, libuv, mcu">
